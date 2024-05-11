@@ -3,14 +3,13 @@ module github.com/derektamsen/gcp-redis-ca-fetch
 go 1.17
 
 require (
-	cloud.google.com/go/compute/metadata v0.2.3
+	cloud.google.com/go/compute/metadata v0.3.0
 	cloud.google.com/go/redis v1.11.0
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
 )
 
 require (
 	cloud.google.com/go v0.110.0 // indirect
-	cloud.google.com/go/compute v1.19.1 // indirect
 	cloud.google.com/go/longrunning v0.4.1 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
