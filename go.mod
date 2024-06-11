@@ -1,6 +1,6 @@
 module github.com/derektamsen/gcp-redis-ca-fetch
 
-go 1.17
+go 1.22.3
 
 require (
 	cloud.google.com/go/compute/metadata v0.3.0
