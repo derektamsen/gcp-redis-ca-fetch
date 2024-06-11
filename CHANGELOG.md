@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.1.1...v0.1.2) (2024-06-11)
+
+
+### Bug Fixes
+
+* bump gomod to 1.22.3 and run go mod tidy ([65a5a5a](https://github.com/derektamsen/gcp-redis-ca-fetch/commit/65a5a5acb1f9843a226d6f011c54500a5d872d23))
+
 ## [0.1.1](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.1.0...v0.1.1) (2024-06-11)
 
 
