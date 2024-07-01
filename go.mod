@@ -3,7 +3,7 @@ module github.com/derektamsen/gcp-redis-ca-fetch
 go 1.22.3
 
 require (
-	cloud.google.com/go/compute/metadata v0.3.0
+	cloud.google.com/go/compute/metadata v0.4.0
 	cloud.google.com/go/redis v1.16.2
 	google.golang.org/genproto v0.0.0-20240624140628-dc46fd24d27d
 )
