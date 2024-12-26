@@ -1,4 +1,4 @@
-FROM golang:1.17.7-alpine3.15 AS build
+FROM golang:1.23.4-alpine3.21 AS build
 
 WORKDIR /usr/src/app
 
@@ -9,7 +9,7 @@ RUN go mod download && go mod verify
 COPY . .
 RUN go build -v -o /usr/local/bin/gcp-fetch-redis-certs ./...
 
-FROM alpine:3.15
+FROM alpine:3.21
 
 RUN adduser -s /sbin/nologin -DH -u 1000 app
 
