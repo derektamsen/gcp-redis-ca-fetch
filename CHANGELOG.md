@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.1.2...v0.2.0) (2024-12-26)
+
+
+### Features
+
+* trigger release of all recent changes 20241225 ([060878c](https://github.com/derektamsen/gcp-redis-ca-fetch/commit/060878c9a98e86af09bb025941fd601d023f83fe))
+
 ## [0.1.2](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.1.1...v0.1.2) (2024-06-11)
 
 
