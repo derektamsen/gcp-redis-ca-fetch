@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.2.0...v0.3.0) (2025-09-27)
+
+
+### Features
+
+* **devcontainer:** use base debian image, install go with feature ([#65](https://github.com/derektamsen/gcp-redis-ca-fetch/issues/65)) ([e341128](https://github.com/derektamsen/gcp-redis-ca-fetch/commit/e3411289377a45baae3910bf62ce128fd98d51d8))
+
 ## [0.2.0](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.1.2...v0.2.0) (2024-12-26)
 
 
