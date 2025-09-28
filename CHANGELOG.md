@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.3.0...v0.3.1) (2025-09-28)
+
+
+### Bug Fixes
+
+* **ci:** use updated goreleaser syntax v2.2 and stable golang ([#67](https://github.com/derektamsen/gcp-redis-ca-fetch/issues/67)) ([744be66](https://github.com/derektamsen/gcp-redis-ca-fetch/commit/744be66a873d3a1ea99168b572e7409f88acb86c))
+
 ## [0.3.0](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.2.0...v0.3.0) (2025-09-27)
 
 
