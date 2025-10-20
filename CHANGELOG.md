@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.3.1...v0.3.2) (2025-10-20)
+
+
+### Bug Fixes
+
+* **deps:** bump golang from 1.25.2-alpine3.22 to 1.25.3-alpine3.22 ([#71](https://github.com/derektamsen/gcp-redis-ca-fetch/issues/71)) ([9f5f654](https://github.com/derektamsen/gcp-redis-ca-fetch/commit/9f5f6549311c8adf91a07c2179f8003fcac46696))
+
 ## [0.3.1](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.3.0...v0.3.1) (2025-09-28)
 
 
