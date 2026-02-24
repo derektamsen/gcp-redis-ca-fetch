@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.4.0...v0.5.0) (2026-02-24)
+
+
+### Features
+
+* **deps:** bump goreleaser/goreleaser-action from 6 to 7 ([#82](https://github.com/derektamsen/gcp-redis-ca-fetch/issues/82)) ([4cef6b5](https://github.com/derektamsen/gcp-redis-ca-fetch/commit/4cef6b59e4b18687db16181904e9a1c40d5163b1))
+
 ## [0.4.0](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.3.2...v0.4.0) (2025-12-08)
 
 
