@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.5.0...v0.5.1) (2026-03-19)
+
+
+### Bug Fixes
+
+* **deps:** bump google.golang.org/grpc from 1.75.1 to 1.79.3 ([#85](https://github.com/derektamsen/gcp-redis-ca-fetch/issues/85)) ([029c717](https://github.com/derektamsen/gcp-redis-ca-fetch/commit/029c717944ab1de4cb7aa643e79401ab461b051c))
+
 ## [0.5.0](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.4.0...v0.5.0) (2026-02-24)
 
 
