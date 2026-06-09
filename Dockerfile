@@ -9,7 +9,7 @@ RUN go mod download && go mod verify
 COPY . .
 RUN go build -v -o /usr/local/bin/gcp-fetch-redis-certs ./...
 
-FROM alpine:3.23.4
+FROM alpine:3.24.0
 
 RUN adduser -s /sbin/nologin -DH -u 1000 app
 
