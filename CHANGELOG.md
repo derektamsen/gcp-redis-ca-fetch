@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.5.1...v0.6.0) (2026-07-30)
+
+
+### Features
+
+* **ci:** group codeql action updates ([#124](https://github.com/derektamsen/gcp-redis-ca-fetch/issues/124)) ([64a533b](https://github.com/derektamsen/gcp-redis-ca-fetch/commit/64a533b71635d08910d5cda34c1a7f76a8d3f18d))
+
 ## [0.5.1](https://github.com/derektamsen/gcp-redis-ca-fetch/compare/v0.5.0...v0.5.1) (2026-03-19)
 
 
