@@ -8,8 +8,8 @@ cloud.google.com/go/compute/metadata v0.10.0 h1:pyKMUQSwchgkIBBJGdILqQbs/BNJXqwS
 cloud.google.com/go/compute/metadata v0.10.0/go.mod h1:rGFHRrIif570kSibjFTMbt6/4/tzgJWFGI/HVol4GIk=
 cloud.google.com/go/longrunning v1.2.0 h1:WjYH3YHBGCxGJP9M4dWGHBfXr/cFIjMkNgWcJj7/iMM=
 cloud.google.com/go/longrunning v1.2.0/go.mod h1:5KMQALFGOCtFoi2xSOA1u3H7WKlhmckgiyFw7+LGQp0=
-cloud.google.com/go/redis v1.27.0 h1:tubqTSuapccI4oo/Epobb6s5TfF/pMlchgopmu+nuIY=
-cloud.google.com/go/redis v1.27.0/go.mod h1:685IBrLuzuK+qONqcZOSfkeF8tCn4nWinMHqhkHSYlM=
+cloud.google.com/go/redis v1.28.0 h1:+2hvDPXkMD9FJoxzO6wrheJrQN4o/PO5mJhEGbxueF8=
+cloud.google.com/go/redis v1.28.0/go.mod h1:685IBrLuzuK+qONqcZOSfkeF8tCn4nWinMHqhkHSYlM=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
 github.com/cespare/xxhash/v2 v2.3.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/cncf/xds/go v0.0.0-20260202195803-dba9d589def2 h1:aBangftG7EVZoUb69Os8IaYg++6uMOdKK83QtkkvJik=
